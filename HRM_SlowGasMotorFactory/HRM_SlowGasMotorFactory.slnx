@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="HRM_SlowGasMotorFactory_BusinessLogics/HRM_SlowGasMotorFactory_BusinessLogics.csproj" />
+  <Project Path="HRM_SlowGasMotorFactory_Controllers/HRM_SlowGasMotorFactory_Controllers.csproj" Id="44131b04-c657-4505-afa2-1ea6ad2a9ecb" />
+  <Project Path="HRM_SlowGasMotorFactory_Database/HRM_SlowGasMotorFactory_Database.csproj" Id="28b954c6-b5c1-43b5-9248-d20b360e8470" />
+  <Project Path="HRM_SlowGasMotorFactory_DataModels/HRM_SlowGasMotorFactory_DataModels.csproj" />
+  <Project Path="MSTest Test Project/HRM_SlowGasMotorFactory_TestsMSTest.csproj" />
+</Solution>

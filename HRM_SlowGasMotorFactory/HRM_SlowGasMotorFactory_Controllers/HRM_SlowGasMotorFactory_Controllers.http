@@ -1,0 +1,6 @@
+@HRM_SlowGasMotorFactory_Controllers_HostAddress = http://localhost:5293
+
+GET {{HRM_SlowGasMotorFactory_Controllers_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
